@@ -1,0 +1,4 @@
+import requests
+import lxml.html
+
+html = lxml.html.fromstring(requests.get("https://www.nytimes.com/2017/02/04/us/politics/visa-ban-trump-judge-james-robart.html?ref=politics").text)
