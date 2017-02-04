@@ -41,3 +41,5 @@ Equivalence classes is also a win.
 * Result of sentiment/emotional analysis
 * List of entities - number of entities, average number of entities per sentence?
 * Measure of sentence complexity - number of clauses or depth of sentence dependency trees.
+* Number of linked articles
+* Features of linked articles?
