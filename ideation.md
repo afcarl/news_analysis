@@ -30,7 +30,14 @@ Equivalence classes is also a win.
 ##Features
 
 * How much advertising there is?
+* Amount of space taken up by images
 * Which news sources are being shown on the website
 	* google add sense
-	* 
-
+* Document length
+* Part-of-speech composition
+* Average sentence length
+* Measure of vocabulary complexity
+* Frequency of rare words
+* Result of sentiment/emotional analysis
+* List of entities - number of entities, average number of entities per sentence?
+* Measure of sentence complexity - number of clauses or depth of sentence dependency trees.
